@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Source Code Analytics with Roslyn and JavaScript Data Visualization*](http://www.apress.com/9781484219249) by  (Apress, ).
+This repository accompanies [*Source Code Analytics with Roslyn and JavaScript Data Visualization*](http://www.apress.com/9781484219249) by Sudipta Mukherjee (Apress, 2016).
 
 ![Cover image](9781484219249.jpg)
 
